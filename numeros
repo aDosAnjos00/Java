@@ -1,4 +1,3 @@
-package aula31;
 import java.util.Scanner;
 public class numeros {
 	public static void main(String[] args) {
